@@ -59,13 +59,13 @@ n_jobs = 1
 meta_timeout = "10s"
 
 # Username for the master node dashboard.
-dashboard_user_name = ""
+dashboard_user_name = "admin"
 
 # Password for the master node dashboard.
-dashboard_password = ""
+dashboard_password = "houshuai0816"
 
 # Secret key for admin APIs (SSL required).
-admin_api_key = ""
+admin_api_key = "HCLOUD"
 
 [server]
 
